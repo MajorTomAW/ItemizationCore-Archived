@@ -1,5 +1,7 @@
 # Itemization Core
 
+The new version can now be found [here](https://github.com/MajorTomAW/ItemizationCore).
+
 ## <a id="head"></a> 📋 〢 Overview
 
 A plugin that manages an ``inventory system`` for single- and mutliplayer games.
